@@ -2,7 +2,8 @@
   "name": "test",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "type": "module",
+  "main": "sum.js",
   "scripts": {
     "test": "jest",
     "start": "node sum.js"
