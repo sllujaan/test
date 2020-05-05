@@ -1,6 +1,6 @@
 
 
-var sum = require('./sum')
+var sum = require('../sum')
 
 
 test("adds two numbers", () => {
